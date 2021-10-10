@@ -1,4 +1,4 @@
-#Project Description.
+# Project Description.
 ## Background:
 **RTS (Road TO Success) is A company that have several vending machines that sells drinks , food and electronics.
 RTS want to put their vending machines in best places to gain benefit.**
