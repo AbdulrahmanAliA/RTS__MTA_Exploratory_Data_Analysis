@@ -1,4 +1,10 @@
 # Project Description.
+## Abstract:
+
+The goal of this project was to use EDA  to clean and analys the dataset of MTA Turnstiles in New York City in order to find daily traffic to find top stations for vending machines and place them. I worked with data provided by MTA TurnStile and dealing,cleaning and analysis to achieve promising results for this vending machiens problem.
+
+
+
 ## Background:
 **RTS (Road TO Success) is A company that have several vending machines that sells drinks , food and electronics.
 RTS want to put their vending machines in best places to gain benefit.**
